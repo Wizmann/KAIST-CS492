@@ -93,8 +93,3 @@
 * 锁与无锁编程的权衡；
 * Rust 语言中的所有权模型；
 * 以及如何在理论与实践中构建真正高效的并发系统。
-
-
-<div class="alert alert-warning" role="alert">
-  ⚠️ 本文根据视频字幕和 slides 由 AI 生成
-</div>
